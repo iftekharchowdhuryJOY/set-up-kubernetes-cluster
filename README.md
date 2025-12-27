@@ -1,4 +1,3 @@
-```markdown
 # Project: Bare Metal Kubernetes Cluster on KVM
 
 **Author:** Joy (iftekharchowdhury)  
@@ -241,6 +240,3 @@ curl [http://192.168.122.101](http://192.168.122.101):<NodePort>
 
 The cluster is fully operational. This setup serves as the foundation for further DevOps learning, including CI/CD pipelines, Helm charts, and monitoring with Prometheus/Grafana.
 
-```
-
-```
